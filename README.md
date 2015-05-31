@@ -1,7 +1,6 @@
 # Blue-Membergroup-Badges
 Some Blue Membergroup Badges
 
-
 Image Pack Name:<br />
 Blue Membergroup Badges<br />
 Designer: BurkeKnight<br />
